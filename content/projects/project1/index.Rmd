@@ -41,7 +41,7 @@ library(knitr)
 library(kableExtra)
 library(countrycode)
 
-install.packages("infer")
+
 ```
 
 

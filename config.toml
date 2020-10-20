@@ -98,22 +98,22 @@ disqusShortname = ""
       url = "projects/project1"
 
     [[params.tiles.showcase]]
-      title = "Tempus"
+      title = "GSS Survey"
       subtitle = ""
       image = "projects/project2-image.png"
       url = "projects/project2"
 
     [[params.tiles.showcase]]
-      title = "Magna"
-      subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
-      url = "blogs/magna"
-
-    [[params.tiles.showcase]]
-      title = "Ipsum"
+      title = "Trump approval rating"
       subtitle = ""
       image = "projects/project3-image.png"
       url = "projects/project3"
+
+    #[[params.tiles.showcase]]
+      #title = "Ipsum"
+      #subtitle = ""
+      #image = "projects/project3-image.png"
+      #url = "projects/project3"
 
     #[[params.tiles.showcase]]
       #title = "Consequat"
